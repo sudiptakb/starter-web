@@ -12,4 +12,6 @@ This is the basic of a web based project using Git and Github.
 
 ## Deployment
 
+This is the basic of a web based project using Git and Github.
+
 ## How To Contribute
