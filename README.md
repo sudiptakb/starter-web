@@ -19,4 +19,8 @@ This is the basic of a web based project using Git and Github.
 
 This is the basic of a web based project using Git and Github. This adding after multiple checking.
 
+### Copyrights
+
+This is copy rights of Git training 2020.
+
 
