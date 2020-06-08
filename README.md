@@ -15,3 +15,5 @@ This is the basic of a web based project using Git and Github.
 This is the basic of a web based project using Git and Github.
 
 ## How To Contribute
+
+This is the basic of a web based project using Git and Github.
