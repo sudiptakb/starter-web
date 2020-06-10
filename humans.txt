@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sudipta Banerjee  sudipto.k.b@gmail.com
 
 # THANKS
 
