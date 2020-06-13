@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is the begining of the git project. Adding some text for Rebasing.
+This is the begining of the git project. Adding some text for Rebasing, then more changes from myfeature too.
 
 ## Introduction
 
