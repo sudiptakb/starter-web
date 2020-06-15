@@ -21,6 +21,6 @@ This is a demo type text to add how to contribute section.
 
 ### Copyrights
 
-This is copy rights of Git training 2020.
+This is copy rights of Git training 2020. All rights reserved.
 
 
