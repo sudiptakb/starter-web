@@ -1,7 +1,6 @@
 # Starter Web Project
 
-This is the begining of the git project. Adding some text for Rebasing, then more changes from myfeature too.
-
+This is the begining of the git project. Updating an emergency fix after shashing.
 ## Introduction
 
 This is the introduction of a web based project using Git hub.
